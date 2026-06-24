@@ -127,14 +127,14 @@ export default function Hero() {
           
           <a
             href="#proyectos"
-            className="px-6 py-3 bg-black text-white text-sm font-mono tracking-wider hover:bg-black/80 transition-colors"
+            className="px-6 py-3 bg-black text-white text-sm tracking-wider hover:bg-black/80 transition-colors"
           >
             Ver proyectos →
           </a>
           
           <a
             href="#contacto"
-            className="px-6 py-3 border border-black text-sm font-mono tracking-wider hover:bg-black hover:text-white transition-colors"
+            className="px-6 py-3 border border-black text-sm tracking-wider hover:bg-black hover:text-white transition-colors"
           >
             Contacto
           </a>
