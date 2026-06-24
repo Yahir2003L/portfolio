@@ -30,7 +30,7 @@ function SkillCategory({ category, items, index }: { category: string; items: st
         {items.map((skill) => (
           <span
             key={skill}
-            className="px-3 py-1 border border-black/20 text-sm font-mono text-black/70 hover:border-black hover:text-black transition-colors cursor-default"
+            className="px-3 py-1 border border-black/20 text-sm text-black/70 hover:border-black hover:text-black transition-colors cursor-default"
           >
             {skill}
           </span>
