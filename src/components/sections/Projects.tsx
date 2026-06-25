@@ -207,7 +207,7 @@ export default function Projects() {
                     <div className="pb-6 pl-6 md:pl-12 flex flex-col gap-4 md:gap-6">
 
                       {/* Descripción — solo móvil */}
-                      <p className="text-black/50 text-sm leading-relaxed md:hidden">
+                      <p className="text-black/50 text-sm leading-relaxed">
                         {project.description}
                       </p>
 
